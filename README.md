@@ -9,6 +9,9 @@
 - Outlier detection and correction: Identify and handle outliers in the dataset that may skew the analysis, using techniques like Z-score or interquartile range (IQR) methods.
 - Data validation: Ensure data integrity and consistency by applying checks for specific conditions or logical constraints, such as phone number format validation or date range verification.
 
+## [Data Cleaning jupyter notebook](https://github.com/Ahmedismael1/Customer-Call-List-Data-Cleaning-in-Pandas/blob/main/Customer%20Call%20List%20Data%20Cleaning%20in%20Pandas%20.ipynb)
+
+
 ## Benefits:
 
 - Improves the quality and accuracy of your data analysis.
@@ -36,4 +39,3 @@ Pandas library
 - Business analysts
 - Anyone working with customer data
 
-## [Data Cleaning jupyter notebook](https://github.com/Ahmedismael1/Customer-Call-List-Data-Cleaning-in-Pandas/blob/main/Customer%20Call%20List%20Data%20Cleaning%20in%20Pandas%20.ipynb)
